@@ -56,6 +56,13 @@ The motivation for this came up from the http://www.jhug.gr/[Greek Java User Gro
 * Description: Cassandra is a highly scalable and available distributed database.
 * What it means: Priestess of Apollo in Greek mythology cursed to utter true prophecies, but never to be believed.
 
+=== Diataxis
+
+* Site: https://diataxis.fr/
+* Description: A systematic framework for technical documentation authoring.
+* What it means: The name Diátaxis comes from the Ancient Greek δῐᾰ́τᾰξῐς: dia (“across”) and taxis (“arrangement”)
+
+
 === Exousia
 
 * Site: https://github.com/eclipse-ee4j/exousia
